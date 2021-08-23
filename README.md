@@ -1,13 +1,11 @@
-# Hello_Abhi
+- 👋 Hi, I’m Abhishek Kumar Yadav
+- 👀 I’m interested in Java proramming
+- 🌱 I’m currently learning  Android Application
+- 💞 I’m Currently pursunig B.tech
 
-   import java . io. *;
-   public class Hello_Abhi{
-   public static void main (string[]args){
-   system . out.println("Hello_Abhi");
-   }
-   }
-   // compile ~ javac Hello_Abhi.java
-   //execut ~ java Hello_Abhi
-   
-  //output=Hello_Abhi
-  
+
+
+<!---
+aaditeyraaz/aaditeyraaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
